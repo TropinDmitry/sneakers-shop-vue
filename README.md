@@ -1,4 +1,4 @@
-# .
+# A training application based on vue.js that contains cards with products (sneakers), the data about which the application gets using the Mokky.dev API via axios ( getting, posting and deleting). 
 
 This template should help get you started developing with Vue 3 in Vite.
 
